@@ -1,6 +1,6 @@
 # User Management System
 
-This project is a simple user management system that allows you to insert users into a PostgreSQL database. The project is built using [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.org/).
+This project is a simple user management system that allows you to insert users into a PostgreSQL database. The project is built using [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Node.js](https://nodejs.org/).
 
 ## Table of Contents
 
@@ -98,7 +98,7 @@ Before you begin, ensure you have met the following requirements:
 
     Use the `insertUser` function to insert a new user into the database. For example:
 
-    ```typescript
+    ```javascript
     import { insertUser } from './path/to/your/module';
 
     async function main() {
